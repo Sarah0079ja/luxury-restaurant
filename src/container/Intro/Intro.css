@@ -9,7 +9,7 @@
     object-fit: cover;
 }
 
-.app__video_overlay{
+.app__video-overlay{
     position: absolute;
     inset: 0;
     background:  rgba(0,0,0,0.65);
@@ -21,6 +21,6 @@
     border-radius: 50%;
     border: 1px solid var(--color-golden);
     cursor:pointer;
-    color: 'red'
+
 
 }
